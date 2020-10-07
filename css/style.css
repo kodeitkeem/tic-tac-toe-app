@@ -58,6 +58,7 @@ main {
     align-items: center;
     text-align: center;
     font-size: 50px;
+    cursor: pointer;
 }
 
 .square:hover {
